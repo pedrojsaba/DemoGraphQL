@@ -1,0 +1,11 @@
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\bin\Debug\netcoreapp3.0\GraphQL.Infrastructure.deps.json
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\bin\Debug\netcoreapp3.0\GraphQL.Infrastructure.dll
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\bin\Debug\netcoreapp3.0\GraphQL.Infrastructure.pdb
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\bin\Debug\netcoreapp3.0\GraphQL.Domain.dll
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\bin\Debug\netcoreapp3.0\GraphQL.Domain.pdb
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.csproj.CopyComplete
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.dll
+C:\Users\pedro\source\repos\DemoGraphQL\GraphQL.Infrastructure\obj\Debug\netcoreapp3.0\GraphQL.Infrastructure.pdb
